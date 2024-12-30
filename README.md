@@ -2,9 +2,6 @@
 
 ### 🌟 도서 관리 시스템
 
-**프로젝트 배경**  
-MSA를 적용한 데이터 조회 및 통계 플랫폼
-
 ---
 
 ## 👥 팀원
@@ -34,29 +31,34 @@ MSA를 적용한 데이터 조회 및 통계 플랫폼
 
 ---
 
+## ✅ 요구사항 명세서
+
+![화면 설계서](https://github.com/kyusang0330/Doseo/raw/main/images/doseo요구사항명세서.png) 
+
+---
+
 ## ✅ 화면 설계서
 
-![화면 설계서](https://github.com/kyusang0330/Doseo/raw/master/images/maindoseo.png) 
-
+![화면 설계서](https://github.com/kyusang0330/Doseo/raw/main/images/maindoseo.png)
 
 
 ---
 ## 🗂️ 스토리 보드
 
 ### Main Page
-![Main Page](https://github.com/kyusang0330/Doseo/raw/master/images/mainpage.png)
+![Main Page](https://github.com/kyusang0330/Doseo/raw/main/images/mainpage.png)
 
 ---
 
 ### loginPage
-![Realtime Searching Keyword](https://github.com/kyusang0330/Doseo/raw/master/images/login.png)
+![Realtime Searching Keyword](https://github.com/kyusang0330/Doseo/raw/main/images/login.png)
 
 ---
 
 ### register
-![Searching Count](https://github.com/kyusang0330/Doseo/raw/master/images/register.png)
+![Searching Count](https://github.com/kyusang0330/Doseo/raw/main/images/register.png)
 
 ---
 
 ### doseoregister
-![Related Topics and Keywords](https://github.com/kyusang0330/Doseo/raw/master/images/doseoregister.png)
+![Related Topics and Keywords](https://github.com/kyusang0330/Doseo/raw/main/images/doseoregister.png)
